@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jboss-jms-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hornetq-commons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jnp-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hornetq-core-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hornetq-jms-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
